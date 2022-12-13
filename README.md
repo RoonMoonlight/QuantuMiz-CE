@@ -36,12 +36,13 @@ Everything featured on this modpack can be customized via Mod Menu.
 * BetterF3
 * Blur
 * Crosshairs
-* Cull Leaves
 * DirectionHUD
 * HD Screenshot
+* Huge Optimizations
 * FOV
 * FPS/CPS/Ping/Potions/Arrows
 * Keystrokes
+* Partial OptiFine Compatibility
 * Saturation/Exhaustion Display
 * ~~Schematica~~ (Temporarily dropped due to author intentionally not publishing their mods to Modrinth)
 * Scoreboard Customization
@@ -64,6 +65,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Utility
 * [CraftPresence](https://modrinth.com/mod/craftpresence)
+* [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
@@ -72,6 +74,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Compatibility Mod
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
+* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 
@@ -82,7 +85,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
-* [KronHUD](https://modrinth.com/mod/kronhud)
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 * [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 
@@ -90,13 +92,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Architectury API](https://modrinth.com/mod/architectury-api)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [CompleteConfig](https://modrinth.com/mod/completeconfig)
-* [DarkKore](https://modrinth.com/mod/darkkore)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-
-### Optional Mods
-* [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 
 ## Incompatible Mods
 These mods are incompatible at the moment.
@@ -104,15 +102,11 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
-### Utility
-* [Fabrishot](https://modrinth.com/mod/fabrishot)
-
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
-* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
@@ -121,6 +115,10 @@ These mods are incompatible at the moment.
 ### UI Mod
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [Blur](https://modrinth.com/mod/blur-fabric)
+* [KronHUD](https://modrinth.com/mod/kronhud)
+
+### Library/Dependency Mods
+* [DarkKore](https://modrinth.com/mod/darkkore)
 
 ### Note
 * If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
