@@ -30,25 +30,22 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
 * (NEW!) Now fully open-source with modrinth support!
 
 ## List of Mod features
-Everything featured on this modpack are configurable via Mod Menu.
+Everything featured on this modpack can be customized via Mod Menu.
+
 * ArmorStatus
 * BetterF3
 * Blur
-* Clear Hitboxes
 * Crosshairs
 * Cull Leaves
 * DirectionHUD
-* Fabrishot
+* HD Screenshot
 * FOV
 * FPS/CPS/Ping/Potions/Arrows
 * Keystrokes
-* ~~Litematica~~ (Temporarily dropped due to author intentionally not publishing their mods to Modrinth)
 * Saturation/Exhaustion Display
-* Schematica
-* Scoreboard
+* ~~Schematica~~ (Temporarily dropped due to author intentionally not publishing their mods to Modrinth)
+* Scoreboard Customization
 * Shaders
-* Sound Enhancements
-* Toggle Sprints (Coming Soon)
 * Zoom
 
 ## Fair-play Warning
