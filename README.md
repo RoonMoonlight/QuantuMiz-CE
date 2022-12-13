@@ -4,11 +4,11 @@
 1.19.3 has been released. Yes we are aware of this changes, and will be fully updated to support 1.19.3 soon. Thank you all for your patience!
 
 # Kosmos - The community-made alternative modpack for Minecraft
-Kosmos (A.K.A Cosmos) is the EnhancedMod series for popular sandbox game Minecraft, aims to be community-made alternative to [Badlion Client](https://www.badlion.net/) and [Lunar Client](https://www.lunarclient.com/), based on latest Fabric releases.
-
-This project is also known as continuation of forgotten modpack, Solaire.
+Kosmos is the PvP-focused modpack for Minecraft: Java Edition, aims to be community-made alternative to [Badlion Client](https://www.badlion.net/) and [Lunar Client](https://www.lunarclient.com/), based on latest Fabric releases.
 
 This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not compatible due to minor update, feel free use old version in the meantime.
+
+Also check out our sister project [Steria](https://github.com/MysticMoonlight/Steria), the community-made Minecraft: Java Edition modpack focused on optimization without PvP features and bloats.
 
 **Kosmos for 1.19.3 is still on beta. Things might not be stable and may subject to change.**
 
