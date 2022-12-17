@@ -86,8 +86,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Main Menu Client](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
-* [Architectury API](https://modrinth.com/mod/architectury-api)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
