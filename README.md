@@ -17,7 +17,7 @@ Also check out our sister project [Steria](https://github.com/MysticMoonlight/St
 * [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
+See [here](https://github.com/MysticMoonlight/Kosmos/releases).
 
 ## Features
 * Based on Fabric
@@ -79,6 +79,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Iris Shaders](https://modrinth.com/mod/iris)
 
 ### UI Mod
+* [AppleSkin](https://modrinth.com/mod/appleskin)
 * [BetterF3](https://modrinth.com/mod/betterf3)
 * [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
 * [Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod)
@@ -113,7 +114,6 @@ These mods are incompatible at the moment.
 * [Puzzle](https://modrinth.com/mod/puzzle)
 
 ### UI Mod
-* [AppleSkin](https://modrinth.com/mod/appleskin)
 * [Blur](https://modrinth.com/mod/blur-fabric)
 * [KronHUD](https://modrinth.com/mod/kronhud)
 
