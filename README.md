@@ -27,7 +27,7 @@ See [here](https://github.com/MysticMoonlight/Kosmos/releases).
 * Most features from OptiFine are now compatible
 * Privacy focused
 * Community-made project
-* (NEW!) Now fully open-source with modrinth support!
+* Modrinth support!
 
 ## List of Mod features
 Everything featured on this modpack can be customized via Mod Menu.
@@ -72,6 +72,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Zoomify](https://modrinth.com/mod/zoomify)
@@ -88,6 +89,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### UI Mod
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [BetterF3](https://modrinth.com/mod/betterf3)
+* [Blur](https://modrinth.com/mod/blur-fabric)
 * [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
 * [Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
@@ -95,6 +97,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 * [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
+* [Main Menu Client](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
 * [Architectury API](https://modrinth.com/mod/architectury-api)
@@ -120,7 +123,6 @@ These mods are incompatible at the moment.
 * [Puzzle](https://modrinth.com/mod/puzzle)
 
 ### UI Mod
-* [Blur](https://modrinth.com/mod/blur-fabric)
 * [KronHUD](https://modrinth.com/mod/kronhud)
 
 ### Library/Dependency Mods
