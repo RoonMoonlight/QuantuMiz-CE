@@ -70,9 +70,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [Language Reload](https://modrinth.com/mod/language-reload)
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
+* [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Zoomify](https://modrinth.com/mod/zoomify)
@@ -97,7 +97,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 * [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
-* [Main Menu Client](https://modrinth.com/mod/main-menu-credits)
+* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
 * [Architectury API](https://modrinth.com/mod/architectury-api)
