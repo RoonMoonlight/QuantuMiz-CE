@@ -97,7 +97,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
-* [KronHUD](https://modrinth.com/mod/kronhud)
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 * [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
@@ -106,7 +105,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Architectury API](https://modrinth.com/mod/architectury-api)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [CompleteConfig](https://modrinth.com/mod/completeconfig)
-* [DarkKore](https://modrinth.com/mod/darkkore)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
@@ -123,6 +121,12 @@ These mods are incompatible at the moment.
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+
+### UI Mod
+* [KronHUD](https://modrinth.com/mod/kronhud)
+
+### Library/Dependency Mods
+* [DarkKore](https://modrinth.com/mod/darkkore)
 
 ### Note
 * If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
