@@ -1,0 +1,41 @@
+{
+  "main_menu": {
+    "top_left": [
+      {
+        "text": "Pre-Release 3",
+        "color": "red"
+      }
+    ],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": " "
+      },
+      {
+        "text": "Kosmos 1.19.3 Schnee Tiger"
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "v1.19.3-pre3"
+      }
+    ],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [
+      {
+        "text": "Pre-Release 3",
+        "color": "red"
+      }
+    ],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Kosmos v1.19.3-pre3"
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
