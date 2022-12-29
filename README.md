@@ -129,5 +129,13 @@ These mods are incompatible at the moment.
 * [DarkKore](https://modrinth.com/mod/darkkore)
 
 ### Note
-* If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
+By using this modpack, you agree to the following:
+* Our modpacks are designed to comply with most community server rules in mind. Please add/remove mods at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
+* This modpack is using Starlight for chunk optimization. Due to nature of the mod, disabling will cause slower loading of the world, and it is safe to ignore them.
+* For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
+* Due to EULA related issues, cape system is not included on this modpack, and never will.
+* Due to copyright concerns, resource packs and shader packs are not included on our modpack. You need to install them manually.
+* You may fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'Steria' name and logo on your remix modpack.
+	
+
 
