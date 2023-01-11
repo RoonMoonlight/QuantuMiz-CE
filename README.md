@@ -79,6 +79,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 * [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Compatibility Mod
+* [Animatica](https://modrinth.com/mod/animatica)
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
