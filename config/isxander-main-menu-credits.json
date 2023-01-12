@@ -2,7 +2,7 @@
   "main_menu": {
     "top_left": [
       {
-        "text": "Pre-Release 3",
+        "text": "Pre-Release 5",
         "color": "red"
       }
     ],
@@ -17,24 +17,15 @@
     ],
     "bottom_right": [
       {
-        "text": "v1.19.3-pre3"
+        "text": "v1.19.3-pre5"
       }
     ],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": [
-      {
-        "text": "Pre-Release 3",
-        "color": "red"
-      }
-    ],
+    "top_left": [],
     "top_right": [],
-    "bottom_left": [
-      {
-        "text": "Kosmos v1.19.3-pre3"
-      }
-    ],
+    "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []
   }
