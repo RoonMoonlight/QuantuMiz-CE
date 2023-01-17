@@ -2,7 +2,7 @@
   "main_menu": {
     "top_left": [
       {
-        "text": "Pre-Release 5",
+        "text": "Pre-Release",
         "color": "red"
       }
     ],
@@ -17,7 +17,7 @@
     ],
     "bottom_right": [
       {
-        "text": "v1.19.3-pre5"
+        "text": "v1.19.3-pre6"
       }
     ],
     "mod_blacklist": []
@@ -25,7 +25,11 @@
   "pause_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [],
+    "bottom_left": [
+      {
+        "text": "Kosmos 1.19.3-pre6"
+      }
+    ],
     "bottom_right": [],
     "mod_blacklist": []
   }
