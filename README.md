@@ -56,6 +56,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 
 ## Mod List
 ### Optimization
+* [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [Indium](https://www.modrinth.com/mod/indium/)
