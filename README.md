@@ -5,7 +5,7 @@ Kosmos is the PvP-focused modpack for Minecraft: Java Edition, aims to be commun
 
 This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not compatible due to minor update, feel free use old version in the meantime.
 
-Also check out our sister project [Steria](https://github.com/MysticMoonlight/Steria), the community-made Minecraft: Java Edition modpack focused on optimization without PvP features and bloats.
+Also check out our sister project [QuiltMiz](https://github.com/MysticMoonlight/QuiltMiz).
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
@@ -51,9 +51,6 @@ Everything featured on this modpack can be customized via Mod Menu.
 * Time Changer
 * Zoom
 
-## Fair-play Warning
-Since it is Quilt based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
-
 ## Mod List
 ### Optimization
 * [FastQuit](https://modrinth.com/mod/fastquit)
@@ -81,11 +78,11 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
-* [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+* [More Culling](https://modrinth.com/mod/moreculling)
 * [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
 
@@ -123,7 +120,4 @@ By using this modpack, you agree to the following:
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
 * Due to EULA related issues, cape system is not included on this modpack, and never will.
 * Due to copyright concerns, resource packs and shader packs are not included on our modpack. You need to install them manually.
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'Steria' name and logo on your fork/remix.
-	
-
-
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuiltMiz' name and logo on your fork/remix.
