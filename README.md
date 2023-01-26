@@ -56,6 +56,7 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://www.modrinth.com/mod/indium/)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
@@ -101,6 +102,12 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+
+### Temporary Mod
+These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
+
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Incompatible Mods
 These mods are incompatible at the moment.
