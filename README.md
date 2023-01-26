@@ -105,9 +105,6 @@ Everything featured on this modpack can be customized via Mod Menu.
 ## Incompatible Mods
 These mods are incompatible at the moment.
 
-### Optimization
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-
 ### Compatibility Mod
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
