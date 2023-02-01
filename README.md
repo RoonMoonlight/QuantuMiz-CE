@@ -37,7 +37,6 @@ Everything featured on this modpack can be customized via Mod Menu.
 * Fullbright
 * HD Screenshot
 * Huge Optimizations
-* Hypixel mods
 * FOV
 * FPS/CPS/Ping/Potions/Arrows/Speed
 * Keystrokes
@@ -66,8 +65,10 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
+* [BetterBlockOutline](https://modrinth.com/mod/betterblockoutline)
 * [Debugify](https://modrinth.com/mod/debugify)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
+* [KronHUD](https://modrinth.com/mod/kronhud)
 * [Language Reload](https://modrinth.com/mod/language-reload)
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
@@ -79,13 +80,16 @@ Everything featured on this modpack can be customized via Mod Menu.
 
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
+* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [OptiGUI](https://modrinth.com/mod/optigui)
-* [Puzzle](https://modrinth.com/mod/puzzle)
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### UI Mod
 * [AppleSkin](https://modrinth.com/mod/appleskin)
@@ -99,6 +103,7 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
+* [DarkKore](https://modrinth.com/mod/darkkore)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
@@ -107,7 +112,6 @@ Everything featured on this modpack can be customized via Mod Menu.
 These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
 
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Incompatible Mods
 These mods are incompatible at the moment.
@@ -115,7 +119,7 @@ These mods are incompatible at the moment.
 ### Compatibility Mod
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
-* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) ([Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) is available for temporary solution)
 
 ### Note
 By using this modpack, you agree to the following:
