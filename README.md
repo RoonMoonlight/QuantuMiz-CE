@@ -28,26 +28,19 @@ See [here](https://github.com/MysticMoonlight/Kosmos/releases).
 Everything featured on this modpack can be customized via Mod Menu.
 
 * ArmorStatus
-* Blur
 * Crosshairs
 * Custom Block Outlines
-* Custom Skies (all formats)
 * DirectionHUD
 * Discord RPC
-* Fullbright
 * HD Screenshot
 * Huge Optimizations
-* FOV
 * FPS/CPS/Ping/Potions/Arrows/Speed
 * Keystrokes
-* Motion Blur
 * Partial OptiFine Compatibility
-* Player Badges
 * Saturation/Exhaustion Display
 * ~~Schematica~~ (Temporarily dropped due to author intentionally not publishing their mods to Modrinth)
-* Scoreboard Customization
+* Scoreboard
 * Shaders
-* Time Changer
 * Zoom
 
 ## Mod List
