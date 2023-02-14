@@ -103,6 +103,7 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
+* [CompleteConfig](https://modrinth.com/mod/completeconfig)
 * [DarkKore](https://modrinth.com/mod/darkkore)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
