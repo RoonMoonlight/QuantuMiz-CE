@@ -1,0 +1,6 @@
+autoJump:false
+fullscreen:true
+toggleSprint:true
+resourcePacks:["vanilla","file/Chat Reporting Helper.zip","continuity/default","continuity/glass_pane_culling_fix"]
+telemetryOptInExtra:false
+onboardAccessibility:false

@@ -1,1 +1,0 @@
-Here you can check the archives of the old Pre-release versions to keep the Releases page clean.

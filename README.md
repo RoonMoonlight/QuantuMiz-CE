@@ -1,11 +1,5 @@
-![Cosmos Banner](https://user-images.githubusercontent.com/25527589/206985419-a8c13d4f-e893-4ec8-be9b-08421a7922d2.png)
-
-# Kosmos - The community-made alternative modpack for Minecraft
-Kosmos is the PvP-focused modpack for Minecraft: Java Edition, aims to be community-made alternative to [Badlion Client](https://www.badlion.net/) and [Lunar Client](https://www.lunarclient.com/).
-
-This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not compatible due to minor update, feel free use old version in the meantime.
-
-Also check out our sister project [QuiltMiz](https://github.com/MysticMoonlight/QuiltMiz).
+# QuantuMiz: Competitive Edition - The community-made alternative competitive pvp modpack for Minecraft
+QuantuMiz: Competitive Edition (Formerly known as Kosmos) is the PvP-focused competitive modpack for Minecraft: Java Edition, aims to be community-made alternative to [Badlion Client](https://www.badlion.net/) and [Lunar Client](https://www.lunarclient.com/) and [Feather Client](https://feathermc.com/).
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
@@ -15,111 +9,81 @@ Also check out our sister project [QuiltMiz](https://github.com/MysticMoonlight/
 See [here](https://github.com/MysticMoonlight/Kosmos/releases).
 
 ## Features
-* Based on Quilt with Fabric mod compatibility
-* Curated features brought from Badlion Client/Lunar Client
-* Focused on fair-play
-* Huge optimization has been made, compared with Vanilla and Forge+OptiFine
-* Most features from OptiFine are compatible
+* Features AxolotlClient, which has several useful tools for your competitive PvP experience
+* Cleaned up unnecessary features with the exception of widely used feature, such as Shader, Connected Textures and more
+* Huge optimization has been made, and have better performance compared with Vanilla/Forge + OptiFine
 * Privacy focused
 * Community-made project
-* Modrinth support!
 
 ## List of Mod features
 Everything featured on this modpack can be customized via Mod Menu.
 
 * ArmorStatus
-* Crosshairs
+* Chroma Background (You know what I mean right)
+* Crosshairs Customization
+* Connected Textures
 * Custom Block Outlines
+* Custom Skies (all formats)
 * DirectionHUD
 * Discord RPC
+* Fullbright
 * HD Screenshot
 * Huge Optimizations
+* FOV
 * FPS/CPS/Ping/Potions/Arrows/Speed
 * Keystrokes
+* Motion Blur
 * Partial OptiFine Compatibility
+* Player Badges
 * Saturation/Exhaustion Display
-* ~~Schematica~~ (Temporarily dropped due to author intentionally not publishing their mods to Modrinth)
-* Scoreboard
+* Scoreboard Customization
 * Shaders
+* Time Changer
 * Zoom
+* And possibly more...
 
 ## Mod List
-### Optimization
+* [AxolotlClient](https://modrinth.com/mod/axolotlclient)
+* [Borderless Mining](https://modrinth.com/mod/borderless-mining)
+* [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Continuity](https://modrinth.com/mod/continuity)
+* [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
+* [EntityCulling](https://modrinth.com/mod/entityculling)
+* [Exordium](https://modrinth.com/mod/exordium)
 * [FastQuit](https://modrinth.com/mod/fastquit)
+* [Fastload](https://modrinth.com/mod/fastload)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-* [Indium](https://www.modrinth.com/mod/indium/)
-* [LazyDFU](https://modrinth.com/mod/lazydfu)
-* [Lithium](https://modrinth.com/mod/lithium)
-* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
-* [Starlight](https://modrinth.com/mod/starlight)
-* [Sodium](https://modrinth.com/mod/sodium)
-
-### Utility
-* [BetterBlockOutline](https://modrinth.com/mod/betterblockoutline)
-* [Debugify](https://modrinth.com/mod/debugify)
-* [Fabrishot](https://modrinth.com/mod/fabrishot)
-* [KronHUD](https://modrinth.com/mod/kronhud)
+* [Indium](https://modrinth.com/mod/indium)
+* [Iris Shaders](https://modrinth.com/mod/iris)
 * [Language Reload](https://modrinth.com/mod/language-reload)
-* [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
-* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* [Zoomify](https://modrinth.com/mod/zoomify)
-
-### Compatibility Mod
-* [Animatica](https://modrinth.com/mod/animatica)
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
-* [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
-* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
-* [Iris Shaders](https://modrinth.com/mod/iris)
-* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+* [Model Gap Fix](https://modrinth.com/mod/modelfix)
+* [Modpack Config Updater](https://modrinth.com/mod/modpack-config-updater)
 * [More Culling](https://modrinth.com/mod/moreculling)
-* [OptiGUI](https://modrinth.com/mod/optigui)
-* [Zoomify](https://modrinth.com/mod/zoomify)
-
-### UI Mod
-* [AppleSkin](https://modrinth.com/mod/appleskin)
-* [Blur](https://modrinth.com/mod/blur-fabric)
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-* [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
-* [Custom Crosshair Mod](https://modrinth.com/mod/custom-crosshair-mod)
-* [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
-* [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
-* [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
-* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
-
-### Library/Dependency Mods
-* [CompleteConfig](https://modrinth.com/mod/completeconfig)
-* [DarkKore](https://modrinth.com/mod/darkkore)
+* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
-* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
+* [Sodium](https://modrinth.com/mod/sodium)
+* [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+* [rainbowify](https://modrinth.com/mod/rainbowify)
 
-### Temporary Mod
-These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
+## Special Thanks
+* [Fabulously Optimized Community](https://discord.gg/fabulously-optimized-859124104644788234) for references of mod configs, status and assistance
+* [HyperSoop](https://modrinth.com/user/HyperSoop) for reference of how Simply Optimized optimization works
+* [moehreag](https://modrinth.com/user/moehreag) for creating AxolotlClient, the alternative of [Badlion Client](https://www.badlion.net/), [Lunar Client](https://www.lunarclient.com/) and [Feather Client](https://feathermc.com/)
+* And you guys!
 
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-
-## Incompatible Mods
-These mods are incompatible at the moment.
-
-### Compatibility Mod
-* [Colormatic](https://modrinth.com/mod/colormatic)
-* [Continuity](https://modrinth.com/mod/continuity)
-* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) ([Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) is available for temporary solution)
-
-### Note
+## Note
 By using this modpack, you agree to the following:
-* Our modpacks are designed to comply with most community server rules in mind. Please add/remove mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
-* This modpack is using Starlight for chunk optimization. Due to nature of the mod, disabling will cause slower loading of the world, and it is safe to ignore them.
-* For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
-* Due to EULA related issues, cape system is not included on this modpack, and never will.
-* Due to copyright concerns, resource packs and shader packs are not included on our modpack. You need to install them manually.
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuiltMiz' name and logo on your fork/remix.
+* Our modpacks are designed to comply with most community server rules in mind. Please add/remove, enable mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
+* Our project is ONLY distributed on Codeberg and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
+* For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. If you are confused what does it do, try enabling the 'Chat Reporting Helper' on Settings -> Resource Packs.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuantuMiz' name and logo on your fork and remix.
