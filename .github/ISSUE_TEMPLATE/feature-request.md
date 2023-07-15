@@ -1,18 +1,16 @@
 ---
-name: Feature request
+name: Feedback
 about: Suggest an idea for our project
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-<!--- Personal information warning: Please use [mc.logs](https://mc.logs) for crash report or any sensitive contents. Any attachment which includes sensitive information will be immediately removed. --->
+<!--- Note: You MUST use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment without using mclo.gs will result in a immediate removal. --->
+<!--- This template is for feedbacks only. Use Bug report template if your issue is related with problems. --->
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Which modpack?**
-(Kosmos/QuiltMiz/QuiltMiz Fabric Edition)
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.

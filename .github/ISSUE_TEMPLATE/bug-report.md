@@ -2,13 +2,13 @@
 name: Bug report
 about: Create a bug report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
 <!--- Note: Please use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment which includes sensitive information will be immediately removed. --->
-<!--- Note #2: Any modpack with your own addition/removal will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods. --->
+<!--- Note #2: Any modification of mods list (Except your own Resource Packs and Shader Packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods. --->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -28,7 +28,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Which platform are you using?**
  - OS: (Windows/macOS/Linux/etc. Please be more detailed)
- - Modpack type: (Kosmos/QuiltMiz/QuiltMiz Fabric Edition)
  - Modpack Version: (The modpack version)
  - Minecraft Version: (MC version)
 
