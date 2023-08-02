@@ -12,6 +12,7 @@ See [here](https://github.com/MysticMoonlight/Kosmos/releases).
 * Features AxolotlClient, which has several useful tools for your competitive PvP experience
 * Cleaned up unnecessary features with the exception of widely used feature, such as Shader, Connected Textures and more
 * Huge optimization has been made, and have better performance compared with Vanilla/Forge + OptiFine
+* Prioritized to be stable and well optimized modpack by focusing on fixes and improvements by staying on certain version rather than keeping mod update to latest release, preventing modpack being instabilized
 * Privacy focused
 * Community-made project
 
