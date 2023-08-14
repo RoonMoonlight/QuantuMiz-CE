@@ -6,10 +6,10 @@ QuantuMiz: Competitive Edition (Formerly known as Kosmos) is the PvP-focused com
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
-* [Quilt](https://quiltmc.org/en/)
+* [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/Kosmos/releases).
+See [here](https://github.com/RoonMoonlight/QuantuMiz-CE/releases).
 
 ## Features
 * Features AxolotlClient, which has several useful tools for your competitive PvP experience
