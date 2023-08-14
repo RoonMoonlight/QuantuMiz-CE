@@ -1,3 +1,6 @@
+# Notice: QuantuMiz CE will be Fabric based
+Due to uncomfortable experience with Quilt Community, we will start deprecating Quilt Loader on 2.1.0 update, and all mods will be replaced with Fabric/Osmium. Thank you for your understanding.
+
 # QuantuMiz: Competitive Edition - The community-made alternative competitive pvp modpack for Minecraft
 QuantuMiz: Competitive Edition (Formerly known as Kosmos) is the PvP-focused competitive modpack for Minecraft: Java Edition, aims to be community-made alternative to [Badlion Client](https://www.badlion.net/) and [Lunar Client](https://www.lunarclient.com/) and [Feather Client](https://feathermc.com/).
 
@@ -77,14 +80,13 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [rainbowify](https://modrinth.com/mod/rainbowify)
 
 ## Special Thanks
-* [Fabulously Optimized Community](https://discord.gg/fabulously-optimized-859124104644788234) for references of mod configs, status and assistance
-* [HyperSoop](https://modrinth.com/user/HyperSoop) for reference of how Simply Optimized optimization works
-* [moehreag](https://modrinth.com/user/moehreag) for creating AxolotlClient, the alternative of [Badlion Client](https://www.badlion.net/), [Lunar Client](https://www.lunarclient.com/) and [Feather Client](https://feathermc.com/)
+* [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for references of mod configs, status and assistance
+* [Simply Optimized](https://modrinth.com/modpack/sop) for references of mod configs
 * And you guys!
 
 ## Note
 By using this modpack, you agree to the following:
 * Our modpacks are designed to comply with most community server rules in mind. Please add/remove, enable mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
-* Our project is ONLY distributed on Codeberg and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
+* Our project is ONLY distributed on RoonMoonlight GitHub repository and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. If you are confused what does it do, try enabling the 'Chat Reporting Helper' on Settings -> Resource Packs.
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuantuMiz' name and logo on your fork and remix.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'QuantuMiz' name and logo on your fork and remix.
