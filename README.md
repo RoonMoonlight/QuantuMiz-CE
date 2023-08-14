@@ -69,7 +69,6 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
 * [ModernFix](https://modrinth.com/mod/modernfix)
-* [Modpack Config Updater](https://modrinth.com/mod/modpack-config-updater)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Osmium](https://modrinth.com/mod/osmium)
@@ -79,6 +78,7 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 * [Zoomify](https://modrinth.com/mod/zoomify)
+* [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
 
 ## Special Thanks
 * [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for references of mod configs, status and assistance
