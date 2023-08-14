@@ -8,7 +8,7 @@
     },
     "performance": {
         "use_entity_culling": false
-    }
+    },
     "notifications": {
         "hide_donation_button":true
     }
