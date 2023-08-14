@@ -47,16 +47,16 @@ Everything featured on this modpack can be customized via Mod Menu.
 * And possibly more...
 
 ## Mod List
-* [AxolotlClient](https://modrinth.com/mod/axolotlclient)
 * [Borderless Mining](https://modrinth.com/mod/borderless-mining)
 * [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 * [EntityCulling](https://modrinth.com/mod/entityculling)
-* [Exordium](https://modrinth.com/mod/exordium)
+* [Osmium](https://modrinth.com/mod/osmium)
+* [Fabric API](https://modrinth.com/mod/fabric-api)
+* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [FastQuit](https://modrinth.com/mod/fastquit)
-* [Fastload](https://modrinth.com/mod/fastload)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
@@ -72,16 +72,17 @@ Everything featured on this modpack can be customized via Mod Menu.
 * [Modpack Config Updater](https://modrinth.com/mod/modpack-config-updater)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
-* [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
+* [Osmium](https://modrinth.com/mod/osmium)
+* [rainbowify](https://modrinth.com/mod/rainbowify)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
+* [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-* [rainbowify](https://modrinth.com/mod/rainbowify)
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ## Special Thanks
 * [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for references of mod configs, status and assistance
-* [Simply Optimized](https://modrinth.com/modpack/sop) for references of mod configs
+* [Simply Optimized](https://modrinth.com/modpack/sop) for references of mod configs, mods status and assistance
 * And you guys!
 
 ## Note
