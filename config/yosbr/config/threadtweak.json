@@ -1,7 +1,7 @@
 {
   "threadPriority": {
     "game": 8,
-    "main": 8,
+    "main": 2,
     "io": 7,
     "integratedServer": 8
   }
