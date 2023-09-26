@@ -1,0 +1,13 @@
+{
+  "generalSettings": {
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": true,
+    "enableJoinRequests": false,
+    "partyPrivacyLevel": 1,
+    "preferredClientLevel": 3
+  }
+}

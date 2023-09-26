@@ -1,7 +1,8 @@
 version:3578
 autoJump:false
 operatorItemsTab:true
-snooperEnabled:false
+fullscreen:true
+toggleSprint:true
 darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
@@ -17,6 +18,8 @@ onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_key.simplehudenhanced.toggle_hud:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown
