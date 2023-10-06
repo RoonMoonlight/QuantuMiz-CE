@@ -3,9 +3,9 @@ Due to uncomfortable experience with Quilt Community, we will start deprecating 
 
 <!-- TITLE -->
 <p align="center">
-  <h1>QuantuMiz: Competitive Edition</h1>
+  <b>QuantuMiz: Competitive Edition</b>
   <p align="center">
-    <b>Your friendly competitive PvP modpack, aiming to be open-source alternative of PvP clients!</b>
+    Your friendly competitive PvP modpack, aiming to be open-source alternative of PvP clients!
     <br />
     <a href="https://modrinth.com/modpack/quantumiz-ce/versions">Download</a>
     ·
