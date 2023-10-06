@@ -1,5 +1,5 @@
-# Notice: QuantuMiz CE will be Fabric based
-Due to uncomfortable experience with Quilt Community, we will start deprecating Quilt Loader on 2.1.0 update, and all mods will be replaced with Fabric-based alternatives. Thank you for your understanding.
+> # Notice: QuantuMiz CE will be Fabric based
+> Due to uncomfortable experience with Quilt Community, we will start deprecating Quilt Loader on 2.1.0 update, and all mods will be replaced with Fabric-based alternatives. Thank you for your understanding.
 
 <!-- TITLE -->
 <p align="center">
@@ -14,6 +14,8 @@ Due to uncomfortable experience with Quilt Community, we will start deprecating 
     <a href="https://github.com/RoonMoonlight/QuantuMiz-CE">Source Code</a>
   </p>
 </p>
+
+---
 
 ***QuantuMiz: Competitive Edition*** (Formerly known as Kosmos) is the PvP-focused competitive modpack for Minecraft: Java Edition aiming to be better alternative of PvP clients, powered by several FOSS mods.
 
