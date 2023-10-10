@@ -1,0 +1,10 @@
+isEnabled = true
+renderInGui = true
+keyShadow = true
+showMovement = true
+showClick = true
+showJump = true
+cpsType = "NEVER"
+displayFactor = 1.0
+horizontalSlider = 1684
+verticalSlider = 400
