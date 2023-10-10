@@ -1,5 +1,6 @@
 version:3578
 autoJump:false
+enableVsync:false
 fullscreen:true
 toggleSprint:true
 simulationDistance:6
