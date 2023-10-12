@@ -30,41 +30,42 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz-CE/releases).
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
-Yet to be finalized, please check back later!
-<!---
-* [Borderless Mining](https://modrinth.com/mod/borderless-mining)
-* [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)
+Some of mods featured here can be configured on Mod Menu.
+
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [CompleteConfig](https://modrinth.com/mod/completeconfig)
 * [Continuity](https://modrinth.com/mod/continuity)
+* [CraftPresence](https://modrinth.com/mod/craftpresence)
+* [Custom FOV](https://modrinth.com/mod/custom-fov-illusive)
+* [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
-* [EntityCulling](https://modrinth.com/mod/entityculling)
-* [Osmium](https://modrinth.com/mod/osmium)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
+* [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [Language Reload](https://modrinth.com/mod/language-reload)
 * [Lithium](https://modrinth.com/mod/lithium)
-* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Osmium](https://modrinth.com/mod/osmium)
-* [rainbowify](https://modrinth.com/mod/rainbowify)
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+* [Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced/version)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
+* [TipTabShow](https://modrinth.com/mod/tiptapshow)
+* [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
+* [WAIG: Where Am I Going](https://modrinth.com/mod/waig)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-* [Zoomify](https://modrinth.com/mod/zoomify)
 * [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
---->
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ## Disclaimer!
 By using this modpack, you agree to the following:
