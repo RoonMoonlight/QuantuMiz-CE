@@ -4,3 +4,6 @@ leavesCullingMode = "DEPTH"
 leavesCullingAmount = 3
 includeMangroveRoots = true
 entityModelCulling = true
+
+[modCompatibility]
+minecraft = true
