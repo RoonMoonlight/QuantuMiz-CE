@@ -1,4 +1,8 @@
 isEnabled = true
+backgroundColor = -1728053248
+pressedBackgroundColor = 362789305
+keyColor = 16711770
+pressedKeyColor = 16777215
 renderInGui = true
 keyShadow = true
 showMovement = true
