@@ -1,5 +1,4 @@
-> # Notice: QuantuMiz CE will be Fabric based
-> Due to uncomfortable experience with Quilt Community, we will start deprecating Quilt Loader on 2.1.0 update, and all mods will be replaced with Fabric-based alternatives. Thank you for your understanding.
+> # Notice: To avoid confusion, all Issue Tracker and Releases has been moved to [main QuantuMiz repository](https://github.com/RoonMoonlight/QuantuMiz). All Issue Tracker and Releases will be available on that repository, and previous releases will remain here for archival purposes.
 
 <!-- TITLE -->
 <p align="center">
