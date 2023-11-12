@@ -8,7 +8,7 @@
     <br />
     <a href="https://modrinth.com/modpack/quantumiz-ce/versions">Download</a>
     ·
-    <a href="https://github.com/RoonMoonlight/QuantuMiz-CE/issues">Issue Tracker</a>
+    <a href="https://github.com/RoonMoonlight/QuantuMiz/issues">Issue Tracker</a>
     ·
     <a href="https://github.com/RoonMoonlight/QuantuMiz-CE">Source Code</a>
   </p>
