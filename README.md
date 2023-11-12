@@ -1,4 +1,4 @@
-> # Notice: To avoid confusion, all Issue Tracker and Releases has been moved to [main QuantuMiz repository](https://github.com/RoonMoonlight/QuantuMiz). All Issue Tracker and Releases will be available on that repository, and previous releases will remain here for archival purposes.
+> # Notice: To avoid confusion, all Issue Tracker and Releases has been moved to [main QuantuMiz repository](https://github.com/RoonMoonlight/QuantuMiz). All Issue Tracker and Releases will be available on that repository, and previous releases will remain here for archival purposes, and the contents of repository will remain here as-is.
 
 <!-- TITLE -->
 <p align="center">
