@@ -1,9 +1,6 @@
-itemFrameLODRange = 48
+itemFrameLODRange = 128
 itemFrame3FaceCullingRange = 0.0
-leavesCullingMode = "DEPTH"
-leavesCullingAmount = 3
 includeMangroveRoots = true
-entityModelCulling = true
 
 [modCompatibility]
 minecraft = true
