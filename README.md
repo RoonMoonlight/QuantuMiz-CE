@@ -37,7 +37,6 @@ Some of mods featured here can be configured on Mod Menu.
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CraftPresence](https://modrinth.com/mod/craftpresence)
 * [Custom FOV](https://modrinth.com/mod/custom-fov-illusive)
-* [Custom Scoreboard](https://modrinth.com/mod/customscoreboard)
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -54,6 +53,7 @@ Some of mods featured here can be configured on Mod Menu.
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Scoreboard Helper](https://modrinth.com/mod/scoreboard-helper)g
 * [Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced/version)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
