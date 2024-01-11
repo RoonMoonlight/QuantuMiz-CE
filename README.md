@@ -24,6 +24,7 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz-CE/releases).
 ## Features
 * Included several PvP features seen on PvP client, such as FPS, Ping, Keystrokes, Zoom, ArmorStatus/Item Status, Custom Crosshairs, and many more to come!
 * Optimization powered by [QuantuMiz](https://modrinth.com/modpack/quantumiz), which includes several optimization mods with the power of open-source.
+* Partial compatibility of OptiFine features such as Connected Textures and Shaders!
 * Unlike other modpacks, this modpack is designed with Fair-play in mind for most of community servers, all mods present are cherry-picked carefully to comply with most of server rules, including popular server such as [Hypixel](https://hypixel.net).
 * Our project focuses to be more Vanilla-friendly, only essential features are included, no bloats are accepted unlike other modpacks.
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
@@ -31,22 +32,21 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz-CE/releases).
 ## List of Mods
 Some of mods featured here can be configured on Mod Menu.
 
+* [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [CompleteConfig](https://modrinth.com/mod/completeconfig)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [CraftPresence](https://modrinth.com/mod/craftpresence)
 * [Custom FOV](https://modrinth.com/mod/custom-fov-illusive)
+* [Custom Scoreboard](https://modrinth.com/mod/customscoreboard)
 * [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
 * [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-* [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris Shaders](https://modrinth.com/mod/iris)
-* [Language Reload](https://modrinth.com/mod/language-reload)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
@@ -54,13 +54,10 @@ Some of mods featured here can be configured on Mod Menu.
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Simple HUD Enhanced](https://modrinth.com/mod/simple-hud-enhanced/version)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [TipTabShow](https://modrinth.com/mod/tiptapshow)
-* [Ugly Scoreboard Fix](https://modrinth.com/mod/ugly-scoreboard-fix)
 * [WAIG: Where Am I Going](https://modrinth.com/mod/waig)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 * [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
