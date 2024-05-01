@@ -16,7 +16,7 @@
 
 ---
 
-***QuantuMiz: Competitive Edition*** (Formerly known as Kosmos) is the PvP-focused competitive modpack for Minecraft: Java Edition aiming to be better alternative of PvP clients, powered by several FOSS mods.
+***QuantuMiz: Competitive Edition*** (Formerly known as Kosmos) is the second deriative of QuantuMiz project, aiming to be PvP-focused competitive modpack for Minecraft: Java Edition, powered by several FOSS mods.
 
 ## Changelog
 See [here](https://github.com/RoonMoonlight/QuantuMiz-CE/releases).

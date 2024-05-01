@@ -1,0 +1,16 @@
+{
+    "main_menu":
+    {
+        "bottom_right": [
+            {
+                "text":"QuantuMiz CE for 1.20.6: Lumière",
+                "color":"#FFB554",
+                "clickEvent":
+                {
+                    "action":"open_url",
+                    "value":"https://modrinth.com/modpack/quantumiz-ce"
+                }
+            }
+        ]
+    }
+}
