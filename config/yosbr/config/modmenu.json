@@ -2,6 +2,7 @@
     "count_libraries":false,
     "count_children":false,
     "easter_eggs":false,
+    "mods_button_style": "icon",
     "update_checker":false,
     "button_update_badge":false
 }
