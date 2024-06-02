@@ -1,3 +1,4 @@
+> [!note]
 > **For all releases and issue trackers, for QuantuMiz series, please head to [main repository](https://github.com/RoonMoonlight/QuantuMiz).**
 
 <!-- TITLE -->
