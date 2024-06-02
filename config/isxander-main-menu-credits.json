@@ -3,8 +3,8 @@
     {
         "bottom_right": [
             {
-                "text":"QuantuMiz CE for 1.20.6: Lumière",
-                "color":"#FFB554",
+                "text":"QuantuMiz CE for 1.21 \"Medea\"",
+                "color":"#FF4771",
                 "clickEvent":
                 {
                     "action":"open_url",
