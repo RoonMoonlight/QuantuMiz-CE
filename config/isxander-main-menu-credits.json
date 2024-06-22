@@ -4,7 +4,7 @@
         "bottom_right": [
             {
                 "text":"QuantuMiz CE for 1.21 \"Medea\"",
-                "color":"#FF4771",
+                "color":"#FC078E",
                 "clickEvent":
                 {
                     "action":"open_url",
